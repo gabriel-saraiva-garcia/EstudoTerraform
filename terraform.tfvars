@@ -1,0 +1,1 @@
+aws_provider = {access_key = "", secret_key = ""}
